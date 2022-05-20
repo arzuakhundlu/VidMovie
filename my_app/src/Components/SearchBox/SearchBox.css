@@ -1,0 +1,23 @@
+
+
+.search-box__form-submit{
+    padding: 5px 10px;
+    background-color: black;
+    color: red;
+    border: 2px solid black;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.search-box__form-submit:hover{
+    color: bisque;
+}
+
+.search-box__form-input{
+    padding: 5px 25px;
+    outline: auto;
+}
+
+.search-box{
+    margin-bottom: 35px;
+}

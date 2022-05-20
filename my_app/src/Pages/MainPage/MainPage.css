@@ -1,0 +1,14 @@
+
+.main-box-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 42px calc(50% - 500px);
+}
+
+.main-box-section{
+    width: 60%;
+}
+.main-box-favorites{
+    width: 35%;
+}
+
