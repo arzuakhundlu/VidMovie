@@ -7,6 +7,7 @@ import SearchBox from "../../Components/SearchBox/SearchBox";
 import "./MainPage.css";
 
 export default function MainPage() {
+  
   const [movies, setMovies] = useState([]);
   const [inputVal, setInputVal] = useState("");
   const onInputChange = (e) => {
