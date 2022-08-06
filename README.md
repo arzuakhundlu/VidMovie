@@ -1,3 +1,3 @@
 # VidMovie
 
-URL : vidmovie.netlify.app
+URL : https://vidmovie.netlify.app/
